@@ -1,3 +1,1 @@
-# hello-world
-hello world simple project
-mala izmena programa radi testiranja
+print("hello zenath85 u are my friend")
